@@ -19,7 +19,7 @@ This package provides strongly-typed interfaces for the `window.chrome.webview` 
 ## Installation
 
 ```bash
-npm install --save-dev @types/webview2
+npm install --save-dev webview2-types
 ```
 
 ## Usage
