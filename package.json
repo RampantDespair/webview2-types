@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/RampantDespair/webview2-types.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "author": "RampantDespair",
   "types": "index.d.ts",
   "files": [

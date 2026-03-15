@@ -86,9 +86,9 @@ window.chrome.webview.addEventListener("sharedbufferreceived", (event) => {
 
 ## Package Information
 
-- **Name:** `@types/webview2`
+- **Name:** `webview2-types`
 - **Entry point:** `index.d.ts`
-- **License:** ISC
+- **License:** MIT
 
 ## Development
 
