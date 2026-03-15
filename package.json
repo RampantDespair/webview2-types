@@ -1,5 +1,5 @@
 {
-  "name": "@types/webview2",
+  "name": "webview2-types",
   "version": "1.0.0",
   "description": "TypeScript type definitions for the Microsoft WebView2 SDK.",
   "keywords": [
